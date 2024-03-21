@@ -1,4 +1,4 @@
-# Code Implemented from Scratch By Rayen Bouafif & Ismail Bouchriha 
+# Code Implemented from Scratch By Rayen Bouafif
 import numpy as np 
 import numpy.linalg as linalg
 #FUNCTIONS : 
